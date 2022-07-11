@@ -4,7 +4,7 @@ import React from "react";
 function Portfolio() {
 	return (
 		<main>
-			<h2 className="portfolio">A Few of My Projects . . .</h2>
+			<h2 className="portfolio">Project Portfolio</h2>
 			
 		</main>
 	);
