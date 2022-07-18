@@ -6,7 +6,7 @@ function Resume() {
 			<h3 id="resume">Resume</h3>
 
 			<div className="proficiencies">
-				<p>Front-end Proficiencies:</p>
+				<p>Web Development Proficiencies:</p>
 				<ul>
 					<li>HTML</li>
 					<li>CSS</li>
